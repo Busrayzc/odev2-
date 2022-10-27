@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\uygulama4\uygulama4\bin\Debug\uygulama4.exe.config
+C:\Users\Lenovo\source\repos\uygulama4\uygulama4\bin\Debug\uygulama4.exe
+C:\Users\Lenovo\source\repos\uygulama4\uygulama4\bin\Debug\uygulama4.pdb
+C:\Users\Lenovo\source\repos\uygulama4\uygulama4\obj\Debug\uygulama4.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\uygulama4\uygulama4\obj\Debug\uygulama4.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\uygulama4\uygulama4\obj\Debug\uygulama4.exe
+C:\Users\Lenovo\source\repos\uygulama4\uygulama4\obj\Debug\uygulama4.pdb
